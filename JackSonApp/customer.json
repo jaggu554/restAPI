@@ -1,0 +1,11 @@
+{
+	"cid": 101,
+	"customerName": "Jagadeeswar Reddy",
+	"customerMobile": "9381218722",
+	"customerDelivery": "Pamidi",
+	"address": {
+		"city": "ATP",
+		"pincode": 515775,
+		"street": "OC-colony"
+	}
+}
